@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **village website**
 
-- 🌱 Experienced **Java, JavaScript, C++, C#, Laravel, Flutter**
-
-- 🌱 I’m currently learning **Quailty Assurance Automation, JIRA, JMeter, Selenium**
+- 🌱 Experienced **Visual Basic, Java, JavaScript, C++, C#, Laravel, Flutter**
 
 - 📫 How to reach me **yusrilazharpermana@gmail.com**
 
