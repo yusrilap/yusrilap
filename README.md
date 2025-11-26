@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusrilap&label=Profile%20views&color=0e75b6&style=flat" alt="yusrilap" /> </p>
 
-- 🔭 I’m currently working on **village website**
+- 🔭 I’m currently working on **IT Development System** on
 
 - 🌱 Experienced **Visual Basic, Java, JavaScript, C++, C#, Laravel, Flutter**
 
